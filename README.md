@@ -7,7 +7,7 @@
 <a href ="https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/">Cara install alternatif</a>
 <br>
 <br>
-<p>Jalankan command berikut, sebelumnya harus sudah install node</p>
+<p>Selanjutnya jalankan command berikut, sebelumnya harus sudah install node</p>
 <p>$npm i whatsapp-web.js</p>
 <p>$npm i qrcode-terminal</p>
 <p>$node example.js</p>

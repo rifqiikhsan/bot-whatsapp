@@ -3,8 +3,9 @@
 <a href ="https://ffmpeg.org/download.html">Install ffmpeg</a>
 <br>
 <p>Cara install ffmpeg : </p>
-<a href ="https://id.wikihow.com/Memasang-FFmpeg-pada-Windows">Link cara install</a>
+<a href ="https://id.wikihow.com/Memasang-FFmpeg-pada-Windows">Link cara install</a><br>
 <a href ="https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/">Cara install alternatif</a>
+<br>
 <br>
 <p>Jalankan command berikut, sebelumnya harus sudah install node</p>
 <p>$npm i whatsapp-web.js</p>
